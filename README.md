@@ -1,5 +1,5 @@
 # EcommerceWebsite
-an Ecommerce website, Whale Shop. The website is developed using HTML, CSS, and JavaScript. 
+An Ecommerce website, Whale Shop. The website is developed using HTML, CSS, and JavaScript. 
 The website consists of the following webpages- 
 •	Home Page – This is the first page or the face of the website. It contains a navigation bar which allows navigation to various other pages of the website and provides a search bar.
 •	Login Page – This is from where user can login to the website.
